@@ -10,7 +10,6 @@ This repository showcases my engineering projects, design work, and technical de
 
 - **CAD:** SolidWorks, Fusion 360, Creo
 - **3D Printing:** FDM printing with Bambu Lab and Creality printers
-- **Hands-On Experience:** Entry-level engine work and custom PC assembly
 
 ## Engineering Interests
 
